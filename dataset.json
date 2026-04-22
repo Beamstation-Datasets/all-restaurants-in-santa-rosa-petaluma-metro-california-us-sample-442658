@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant census for the Santa Rosa-Petaluma (Metro), California metro, covering Santa Rosa and Petaluma. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Santa Rosa-Petaluma (Metro), California, US",
-  "export_job_id": "584b610f-9e7f-4598-9f15-367b18a8a68d",
+  "export_job_id": "053dcbd4-d14d-4a45-9a94-35660f767a25",
   "github_org": "Beamstation-Datasets",
   "id_short": 442658,
   "location_name": "Santa Rosa-Petaluma, CA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-santa-rosa-petaluma-metro-california-us-sample-442658",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/442658/beamstation_442658_restaurants-us-santarosapetalumaca_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 82,
-  "sample_sha256": "c7d0627a2b82a870ffe0333763ee5b751c61e2d071751e56ba7a2860dd2312fe",
-  "sample_size_bytes": 329278,
-  "total_records": 823,
-  "updated_at": "2026-04-14T17:53:01.216323+00:00"
+  "sample_records": 46,
+  "sample_sha256": "1a8858f59fc7d07b439edb1394641d5e63f993e132d0c45f7efe0e84bb2dca85",
+  "sample_size_bytes": 192023,
+  "total_records": 462,
+  "updated_at": "2026-04-21T19:38:57.648565+00:00"
 }

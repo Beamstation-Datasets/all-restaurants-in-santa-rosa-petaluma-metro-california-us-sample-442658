@@ -1,12 +1,12 @@
 {
-  "export_job_id": "275ac676-b41a-415e-908f-028868081102",
+  "export_job_id": "6c21dcfb-399a-4a3f-b947-21142219c0a8",
   "id_short": 442658,
-  "published_at": "2026-04-29T07:39:03Z",
+  "published_at": "2026-05-07T19:19:28Z",
   "repo_name": "all-restaurants-in-santa-rosa-petaluma-metro-california-us-sample-442658",
   "sample_asset_name": "beamstation_442658_restaurants-us-santarosapetalumaca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/442658/beamstation_442658_restaurants-us-santarosapetalumaca_SAMPLE_DIST.csv",
-  "sample_records": 85,
-  "sample_sha256": "8727b2159ef91fb20a04eb4879570ad16a7c66ba67599f290be5e32a344daffc",
-  "sample_size_bytes": 303868,
-  "total_records": 855
+  "sample_records": 91,
+  "sample_sha256": "33575dc0bb3086cbcc1e0d7f5a986d96555c7bdd4915dc8c753157a7ba2867ad",
+  "sample_size_bytes": 347416,
+  "total_records": 913
 }
